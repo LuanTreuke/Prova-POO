@@ -1,0 +1,14 @@
+/home/aluno/Documentos/LuanTreuke/Prova POO/bin/Debug/net8.0/Prova POO
+/home/aluno/Documentos/LuanTreuke/Prova POO/bin/Debug/net8.0/Prova POO.deps.json
+/home/aluno/Documentos/LuanTreuke/Prova POO/bin/Debug/net8.0/Prova POO.runtimeconfig.json
+/home/aluno/Documentos/LuanTreuke/Prova POO/bin/Debug/net8.0/Prova POO.dll
+/home/aluno/Documentos/LuanTreuke/Prova POO/bin/Debug/net8.0/Prova POO.pdb
+/home/aluno/Documentos/LuanTreuke/Prova POO/obj/Debug/net8.0/Prova POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/LuanTreuke/Prova POO/obj/Debug/net8.0/Prova POO.AssemblyInfoInputs.cache
+/home/aluno/Documentos/LuanTreuke/Prova POO/obj/Debug/net8.0/Prova POO.AssemblyInfo.cs
+/home/aluno/Documentos/LuanTreuke/Prova POO/obj/Debug/net8.0/Prova POO.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/LuanTreuke/Prova POO/obj/Debug/net8.0/Prova POO.dll
+/home/aluno/Documentos/LuanTreuke/Prova POO/obj/Debug/net8.0/refint/Prova POO.dll
+/home/aluno/Documentos/LuanTreuke/Prova POO/obj/Debug/net8.0/Prova POO.pdb
+/home/aluno/Documentos/LuanTreuke/Prova POO/obj/Debug/net8.0/Prova POO.genruntimeconfig.cache
+/home/aluno/Documentos/LuanTreuke/Prova POO/obj/Debug/net8.0/ref/Prova POO.dll
